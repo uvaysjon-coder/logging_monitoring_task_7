@@ -190,7 +190,7 @@ Click on Create maintenance period (or on the name of an existing maintenance pe
 Enter maintenance parameters in the form
 <h3>
 
-![alt text](./screenshots/Picture14.png)
+![alt text](./screenshots/Picture15.png)
 
 ### From Triger action i created new action:
 
